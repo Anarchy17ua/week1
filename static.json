@@ -3,6 +3,7 @@
   "headers": {
    "/*": {
     "X-Author": "koronator" 
+    "Access-Control-Allow-Origin": "*"
    }
   }
   
